@@ -1,6 +1,6 @@
 // Variables del juego
-let ancho = 1000;
-let alto = 500;
+let ancho = 900;
+let alto = 400;
 let pelotaX, pelotaY; // Posición de la pelota
 let velocidadPelotaX = 6;
 let velocidadPelotaY = 6;
