@@ -1,0 +1,28 @@
+* {
+    background-color: #060118;
+
+}
+
+.centrado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton {
+    background-color: #071547;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    color: aliceblue;
+}
+
+.boton:hover {
+    background-color: #2C7F81;
+    transform: scale(1.2);
+
+}
+
+.p5Canvas {
+    border: 1px solid lightblue;
+}
